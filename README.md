@@ -2,6 +2,12 @@
 
 [![LoopBack](<https://github.com/strongloop/loopback-next/raw/master/docs/site/imgs/branding/Powered-by-LoopBack-Badge-(blue)-@2x.png>)](http://loopback.io/)
 
+https://bitbucket.org/nh047/twisker-community/src/master/src/assets/document/Twisker.pdf
+
+# Top-level-architecture
+
+Please download the pdf [Top level Architecture](https://bitbucket.org/nh047/twisker-community/src/master/src/assets/document/Twisker.pdf).
+
 # Twisker-community
 
 This project was generated with [Loopback CLI](https://github.com/strongloop/loopback-cli) version 4.0.0.
