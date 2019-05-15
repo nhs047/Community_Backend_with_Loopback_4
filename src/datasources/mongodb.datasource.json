@@ -1,0 +1,10 @@
+{
+  "name": "mongodb",
+  "connector": "mongodb",
+  "url": "mongodb+srv://honey:honey123@sharedcluster-ea4go.mongodb.net/Twisker?retryWrites=true",
+  "host": "sharedcluster-ea4go.mongodb.net",
+  "port": 0,
+  "user": "honey",
+  "password": "honey123",
+  "database": "Twisker"
+}
