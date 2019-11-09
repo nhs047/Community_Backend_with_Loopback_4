@@ -6,7 +6,7 @@
 
 Please download the pdf [Top level Architecture](https://bitbucket.org/nh047/twisker-community/src/master/src/assets/document/Twisker.pdf).
 
-# Twisker-community
+# Community
 
 This project was generated with [Loopback CLI](https://github.com/strongloop/loopback-cli) version 4.0.0.
 
